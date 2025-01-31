@@ -1,0 +1,11 @@
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\bin\Release\TrafficLightProject.exe.config
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\bin\Release\TrafficLightProject.exe
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\bin\Release\TrafficLightProject.pdb
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\obj\Release\TrafficLightProject.csproj.AssemblyReference.cache
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\obj\Release\TrafficLightProject.ctrlTrafficLight.resources
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\obj\Release\TrafficLightProject.Form1.resources
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\obj\Release\TrafficLightProject.Properties.Resources.resources
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\obj\Release\TrafficLightProject.csproj.GenerateResource.cache
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\obj\Release\TrafficLightProject.csproj.CoreCompileInputs.cache
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\obj\Release\TrafficLightProject.exe
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\TrafficLightProject\obj\Release\TrafficLightProject.pdb
